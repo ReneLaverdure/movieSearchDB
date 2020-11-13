@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/movieDbSearch/static/css/main.1320a23c.chunk.css",
-    "main.js": "/movieDbSearch/static/js/main.8647eb9a.chunk.js",
-    "main.js.map": "/movieDbSearch/static/js/main.8647eb9a.chunk.js.map",
-    "runtime-main.js": "/movieDbSearch/static/js/runtime-main.41e01be3.js",
-    "runtime-main.js.map": "/movieDbSearch/static/js/runtime-main.41e01be3.js.map",
-    "static/js/2.51c7ef86.chunk.js": "/movieDbSearch/static/js/2.51c7ef86.chunk.js",
-    "static/js/2.51c7ef86.chunk.js.map": "/movieDbSearch/static/js/2.51c7ef86.chunk.js.map",
-    "index.html": "/movieDbSearch/index.html",
-    "precache-manifest.c548a273230d8a0e172ff7260c980455.js": "/movieDbSearch/precache-manifest.c548a273230d8a0e172ff7260c980455.js",
-    "service-worker.js": "/movieDbSearch/service-worker.js",
-    "static/css/main.1320a23c.chunk.css.map": "/movieDbSearch/static/css/main.1320a23c.chunk.css.map",
-    "static/js/2.51c7ef86.chunk.js.LICENSE.txt": "/movieDbSearch/static/js/2.51c7ef86.chunk.js.LICENSE.txt",
-    "static/media/themoviedb.svg": "/movieDbSearch/static/media/themoviedb.24a6fdb9.svg"
+    "main.css": "/movieSearchDB/static/css/main.1320a23c.chunk.css",
+    "main.js": "/movieSearchDB/static/js/main.cded080b.chunk.js",
+    "main.js.map": "/movieSearchDB/static/js/main.cded080b.chunk.js.map",
+    "runtime-main.js": "/movieSearchDB/static/js/runtime-main.a5b3dc9a.js",
+    "runtime-main.js.map": "/movieSearchDB/static/js/runtime-main.a5b3dc9a.js.map",
+    "static/js/2.51c7ef86.chunk.js": "/movieSearchDB/static/js/2.51c7ef86.chunk.js",
+    "static/js/2.51c7ef86.chunk.js.map": "/movieSearchDB/static/js/2.51c7ef86.chunk.js.map",
+    "index.html": "/movieSearchDB/index.html",
+    "precache-manifest.1f54260d48aa635ef2ae54b29382a635.js": "/movieSearchDB/precache-manifest.1f54260d48aa635ef2ae54b29382a635.js",
+    "service-worker.js": "/movieSearchDB/service-worker.js",
+    "static/css/main.1320a23c.chunk.css.map": "/movieSearchDB/static/css/main.1320a23c.chunk.css.map",
+    "static/js/2.51c7ef86.chunk.js.LICENSE.txt": "/movieSearchDB/static/js/2.51c7ef86.chunk.js.LICENSE.txt",
+    "static/media/themoviedb.svg": "/movieSearchDB/static/media/themoviedb.24a6fdb9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41e01be3.js",
+    "static/js/runtime-main.a5b3dc9a.js",
     "static/js/2.51c7ef86.chunk.js",
     "static/css/main.1320a23c.chunk.css",
-    "static/js/main.8647eb9a.chunk.js"
+    "static/js/main.cded080b.chunk.js"
   ]
 }
