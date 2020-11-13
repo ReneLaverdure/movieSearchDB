@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+.container{
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 5%;
+}
+
+@media only screen and (max-width: 1400px) {
+  .container{
+    width: 60%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .container{
+    width: 80%;
+  }
+}
+
+.overview{
+  line-height: 1.2rem;
+  padding: 1rem 0;
+}
+
+.info-container{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.info-item{
+  flex: 50%;
+  margin: 0.6rem 0;
+}
+
+.info-item h4{
+  margin: 0;
+  font-size: 2rem;
+  line-height: 1.4rem;
+ 
+}
+
+.info-item p{
+  margin: 0.5rem;
+}
+
+.dropdown{
+  position: absolute;
+  display: block;
+  width: 30%;
+}
+
+.dropdown__item{
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  border: none;
+  text-align: left;
+  background: rgba(34, 34, 34, 0.692);
+  color: white;
+}
+
+.dropdown__item:hover{
+  background:#01b4e4;
+  color: rgb(39, 39, 39);
+}
+
+.BackDropShade{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.85) 15%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 1) 90%);
+  height: 100%;
+}
+
+.searchbar{
+  /* padding-top: 5rem; */
+  display: flex;
+  
+}
+
+.searchbar__container{
+  margin-left: auto;
+  margin-top: 3%;
+  width: 60%;
+  overflow: hidden;
+}
+
+.searchbar__input {
+  background: rgba(163, 163, 163, 0.288);
+  border: none;
+  padding: 8px 12px;
+  font-size: 16px;
+  color: white;
+  border-bottom: 1px grey solid;
+  width: 100%;
+}
+
+h1{
+  font-size: 3rem;
+  margin: 2.5rem 0 .5rem 0;
+  line-height: 1rem;
+}
+
+
+

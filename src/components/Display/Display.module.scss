@@ -1,0 +1,39 @@
+.Display{
+    background-color: rgba(26, 26, 26, 0.781);
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    display: flex;
+    
+
+    @media only screen and (max-width: 900px){
+        flex-direction: column-reverse;
+        width: 80%;
+    } 
+
+    @media only screen and (max-width: 780px){
+        width: 100%;
+    } 
+
+    &__ImgCard{
+        width: 40%;
+
+        @media only screen and (max-width: 900px){
+            width: 100%;
+        } 
+    }
+
+    &__Text{
+        text-align: left;
+        margin: 0 2rem;
+        color: white;
+    }
+
+    p, h4{
+        margin: 0;
+    }
+}
+
+.Highted{
+    color:#01b4e4;
+}
